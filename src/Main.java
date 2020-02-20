@@ -3,7 +3,7 @@ import java.lang.Math; // 1.  Найти максимальное значени
 public class Main {
     public static void main (String [] args) {
 
-        double firstArray[] = {5, 6, 6, 9, 23654, 1} ;
+        double firstArray[] = {23654, 5, 6, 6, 9, 23, 1} ;
 
         double maxNum = Double.MIN_VALUE;
 
