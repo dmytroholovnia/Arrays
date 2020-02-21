@@ -15,7 +15,7 @@ public class Task7 {
             enterDigit = scan.nextInt();
         }
 
-        int [] originArray = Helper.getRandomArray(enterDigit);
+        int [] originArray = Helper.getRandomArray(enterDigit, -5, 5);
         System.out.println("Original array: " + Arrays.toString(originArray));
         System.out.println();
 
