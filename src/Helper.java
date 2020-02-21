@@ -1,11 +1,11 @@
 import java.lang.Math;
 
 public class Helper {
-    public static int[] getRandomArray (int length) {
+    public static int[] getRandomArray (int length, int minRange, int maxRange) {
         int[] arr2 = new int[length];
 
-        int minRange = -5;  //range [-5; 5]
-        int maxRange = 5;
+    //    int minRange = -5;  //range [-5; 5]
+     //   int maxRange = 5;
 
         for (int i = 0; i < arr2.length; i++) {
             arr2[i] = (int) (Math.random() * ((maxRange - minRange) + 1) + minRange);
