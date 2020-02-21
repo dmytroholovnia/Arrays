@@ -26,5 +26,11 @@ public class Task8 {
 
         int [] randomArrayPP = Helper.getRandomArray(100, 0, 9);
 
+        for (int i = 0; i < fibonacciArr.length; i++) {
+            if (randomArrayPP[i] < fibonacciArr[i]) {
+                int sum += fibonacciArr[i];
+            }
+        }
+
     }
 }
