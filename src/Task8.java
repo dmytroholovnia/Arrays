@@ -8,29 +8,42 @@ public class Task8 {
     public static void main(String[] args) {
 
         //fibonacci array
-        int n0 = 1;
-        int n1 = 1;
-        int n2;
-        int[] fibonacciArr = new int [20];
+        int[] fibonacciArr = new int [100];
 
-        for (int i = 0; i < 2; i++) {
-            fibonacciArr[i] = 1;
+            fibonacciArr[0] = 0;
+            fibonacciArr[1] = 1;
+
+        for (int i = 2; i < fibonacciArr.length; i++) {
+            fibonacciArr[i] = fibonacciArr[i - 1] + fibonacciArr[i - 2];
         }
 
-        for(int i = 3; i <= fibonacciArr.length; i++){
-            n2=n0+n1;
-            n0=n1;
-            n1=n2;
-            fibonacciArr[i-1] = n2;
-        }
+        int [] randomArrayPP = Helper.getRandomArray(100, 0, 9);    //get random array
 
-        int [] randomArrayPP = Helper.getRandomArray(100, 0, 9);
+        int sumFibonacci = 0;
+        int sumElse = 0;
+        int count = 0;
 
-        for (int i = 0; i < fibonacciArr.length; i++) {
-            if (randomArrayPP[i] < fibonacciArr[i]) {
-                int sum += fibonacciArr[i];
+        for (int i = 0; i < randomArrayPP.length; i++) {
+            boolean isFib = false;
+            for (int j = 0; j < fibonacciArr.length; j++) {
+                if (i == fibonacciArr[j]) {
+                    isFib = true;
+                    break;
+                }
+            }
+            if (isFib) {
+                sumFibonacci += randomArrayPP[i];
+            } else {
+                sumElse += randomArrayPP[i];
+                count++;
             }
         }
 
+       int midSumElse = sumElse / count;
+
+        System.out.println(Arrays.toString(fibonacciArr));
+        System.out.println(Arrays.toString(randomArrayPP));
+        System.out.println(sumFibonacci);
+        System.out.println(midSumElse);
     }
 }
