@@ -1,27 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fb64feb1-32bd-4cc7-9964-7408f2af8f97" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arrays/Helper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arrays/Helper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arrays/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arrays/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arrays/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arrays/Task2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arrays/Task3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arrays/Task3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arrays/Task4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arrays/Task4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arrays/Task5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arrays/Task5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arrays/Task6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arrays/Task6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arrays/Task7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arrays/Task7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arrays/Task8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arrays/Task8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Helper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Helper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task8.java" afterDir="false" />
-    </list>
+    <list default="true" id="fb64feb1-32bd-4cc7-9964-7408f2af8f97" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +62,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Task7.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
+            <state relative-caret-position="17">
               <caret line="22" selection-start-line="22" selection-end-line="22" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -91,20 +71,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Task8.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="799">
-              <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+            <state relative-caret-position="476">
+              <caret line="28" column="43" lean-forward="true" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Task11.java">
+        <entry file="file://$PROJECT_DIR$/src/Task9.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+            <state relative-caret-position="153">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -118,11 +98,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Task9.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Task11.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+            <state relative-caret-position="119">
+              <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -287,7 +267,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.116204694" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -359,16 +338,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Task5.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -384,10 +353,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/task8exm.java" />
-    <entry file="file://$PROJECT_DIR$/src/Task8.java">
+    <entry file="file://$PROJECT_DIR$/src/Task7.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+        <state relative-caret-position="17">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -407,8 +379,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Task9.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="43" lean-forward="true" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
         </state>
       </provider>
     </entry>
