@@ -6,7 +6,6 @@ public class Shop {
 
 class Person {
     private String name;
-    private String surname;
     private double salary;
     private int identNum;
     private String type;
