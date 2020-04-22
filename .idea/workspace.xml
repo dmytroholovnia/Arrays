@@ -2,33 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb64feb1-32bd-4cc7-9964-7408f2af8f97" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Strings/Task6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arrays/Task10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arrays/Task11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arrays/Task12.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arrays/Task2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arrays/Task3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arrays/Task4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arrays/Task5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arrays/Task6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arrays/Task7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arrays/Task8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arrays/Task9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arrays/lesson2602.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Strings/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Strings/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task11.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task12.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task9.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson2602.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Task10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Task11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Task12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Task7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Task8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Task9.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,95 +25,57 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Helper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Strings/Task1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Strings/Task2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="74" selection-start-line="24" selection-start-column="74" selection-end-line="24" selection-end-column="74" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Strings/Task3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Strings/Task4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Strings/Task5.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Strings/Task6.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="21" column="51" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Strings/Task7.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="637">
-              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/OOP/EShop/Shop.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="204">
+                  <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/Arrays/Helper.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="289">
+                  <caret line="17" column="34" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="34" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/Main.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="34">
+                  <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Arrays-master/src/Arrays/Helper.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-459" />
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Arrays-master/src/Arrays/Helper.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-102" />
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -174,11 +120,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1008" />
-    <option name="y" value="8" />
-    <option name="width" value="879" />
-    <option name="height" value="1047" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="595" />
+    <option name="width" value="957" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -188,6 +133,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -198,29 +145,38 @@
             <path>
               <item name="Arrays" type="b2602c69:ProjectViewProjectNode" />
               <item name="Arrays" type="462c0819:PsiDirectoryNode" />
+              <item name="Arrays-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Arrays" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Arrays" type="462c0819:PsiDirectoryNode" />
+              <item name="Arrays-master" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Arrays" type="b2602c69:ProjectViewProjectNode" />
               <item name="Arrays" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Strings" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Arrays" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Program files\Java Projects\Arrays\src\Arrays" />
+      <recent name="D:\Program files\Java Projects\Arrays\src" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -335,7 +291,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1433902" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11940298" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -349,7 +305,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.33766234" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053304" side_tool="true" weight="0.33586133" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3293011" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32123655" />
@@ -418,15 +374,7 @@
     <entry file="file://$PROJECT_DIR$/src/Arrays/Task11.java" />
     <entry file="file://$PROJECT_DIR$/src/Arrays/Task12.java" />
     <entry file="file://$PROJECT_DIR$/src/Arrays/Task8.java" />
-    <entry file="file://$PROJECT_DIR$/src/Arrays/Helper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-187">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Arrays/Task3.java" />
-    <entry file="file://$PROJECT_DIR$/src/Arrays/Task2.java" />
     <entry file="jar://C:/Program Files/Java/jdk-12/lib/src.zip!/java.base/java/lang/String.java" />
     <entry file="file://$PROJECT_DIR$/src/Arrays/Task7.java" />
     <entry file="file://$PROJECT_DIR$/src/Task2.java" />
@@ -435,13 +383,6 @@
     <entry file="file://$PROJECT_DIR$/src/lesson2602.java" />
     <entry file="file://$PROJECT_DIR$/src/Task12.java" />
     <entry file="file://$PROJECT_DIR$/src/Task5.java" />
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Strings/Task1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -501,6 +442,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="21" column="51" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arrays.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OOP/EShop/Shop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/Task2.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arrays-master/src/Arrays/Helper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-459" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/Helper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="34" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arrays-master/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
