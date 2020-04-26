@@ -7,9 +7,6 @@ import java.util.Arrays;
 
 public class Library {
         private Book[] libraryList = new Book[0];
-        public String searchName = "Shantaram";
-        public String searchAuthor = "papa carlo";
-        public String searchPubHouse = "Mahaon";
 
         void addBook(Book book) {
 //            books.add(book);
@@ -26,7 +23,7 @@ public class Library {
             }
         }
 
-        public String searchName() {
+        public String searchName(String searchName) {
             for (int i = 0; i < libraryList.length; i++) {
                 if (libraryList[i].getName().equals(searchName)) {
                     searchName = libraryList[i].getName();
@@ -36,7 +33,7 @@ public class Library {
             return searchName;
         }
 
-        public String searchAutor() {
+        public String searchAutor(String searchAuthor) {
             for (int i = 0; i < libraryList.length; i++) {
                 if (libraryList[i].getAuthor().equals(searchAuthor)) {
                     searchAuthor = libraryList[i].getAuthor();
@@ -46,24 +43,17 @@ public class Library {
             return searchAuthor;
         }
 
-//    @Override
-//    public String toString() {
-//        return "Library{" +
-//                "searchPubHouse='" + searchPubHouse + '\'' +
-//                '}';
-//    }
 
-    public String searchPubHouse() {
-            for (int i = 0; i < libraryList.length; i++) {
-                if (libraryList[i].getPubHouse().equals(searchPubHouse)) {
-                    System.out.println(libraryList[i].toString());
-                    searchPubHouse = libraryList[i].getPubHouse();
+        public String searchPubHouse(String searchPubHouse) {
+                for (int i = 0; i < libraryList.length; i++) {
+                    if (libraryList[i].getPubHouse().equals(searchPubHouse)) {
+                        System.out.println(libraryList[i].toString());
+                        searchPubHouse = libraryList[i].getPubHouse();
+                    }
                 }
+                System.out.println("Search publishing house: " + searchPubHouse);
+                return searchPubHouse;
             }
-            System.out.println("Search publishing house: " + searchPubHouse);
-            return searchPubHouse;
-        }
 
-       // public int searchPublish() {}
 
 }
