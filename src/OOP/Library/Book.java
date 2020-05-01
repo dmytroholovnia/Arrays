@@ -22,7 +22,7 @@ public class Book {
 
     public String toString() {
         return String.format(this.name = name,this.author = author, this.pubHouse = pubHouse, this.publish = publish,  this.pagesNum = pagesNum, this.isHardcover = isHardcover, this.price = price);
-    }
+}
 
     public String getName() {
         return name;

@@ -1,7 +1,5 @@
 package OOP.Library;
 
-import OOP.Library.Book;
-
 import java.util.Arrays;
 
 
@@ -20,7 +18,7 @@ public class Library {
         void print() {
             for (int i = 0; i < libraryList.length; i++) {
                 System.out.println(libraryList[i]);
-            }
+        }
         }
 
         public String searchName(String searchName) {

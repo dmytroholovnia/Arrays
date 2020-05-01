@@ -1,20 +1,32 @@
 package OOP.EShop;
 
+import java.util.ArrayList;
+
 public class Shop {
+    ArrayList<Rack> shop = new ArrayList<>();
 
-}
+    void createRack(String name) {
+        shop.add(new Rack(name));
+    }
 
-class Person {
-    private String name;
-    private double salary;
-    private int identNum;
-    private String type;
-}
 
-class Admin extends Person {
-    private String type = "Admin";
-}
+    void addProduct(ProductType product) {
+        String rackName = product.getProductType();
 
-class Marketer extends Person {
-    private String type = "Marketer";
+        for (Rack obj : shop) {
+            if (rackName.equals(obj.getRackName())) {
+                obj.addProductRack(product);
+            }
+        }
+
+
+    }
+
+    void showRack(String rackName) {
+        for (int i = 0; i < shop.size(); i++) {
+            if (rackName.equals(shop.get(i).getRackName())) {
+                shop.get(i).printRackProducts();
+            }
+        }
+    }
 }
