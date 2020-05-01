@@ -2,6 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb64feb1-32bd-4cc7-9964-7408f2af8f97" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/Arrays/OOP/EShop/Admin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Arrays/OOP/EShop/Main_shop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Arrays/OOP/EShop/Marketer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Arrays/OOP/EShop/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Arrays/OOP/EShop/Product.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Arrays/OOP/EShop/ProductType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Arrays/OOP/EShop/Rack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Arrays/OOP/EShop/Shop.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/OOP/EShop/Main_shop.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/OOP/EShop/Person.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/OOP/EShop/Product.java" afterDir="false" />
@@ -317,7 +325,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.124200426" />
